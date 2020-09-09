@@ -3,10 +3,10 @@ A Simple Flutter App to store pin location with photographs of your favourite tr
 
 
 ## TO CREATE NEW FLUTTER PROJECT</br>
--FLUTTER CREATE PROJECT_NAME</br>
+```-FLUTTER CREATE PROJECT_NAME```
 
 ### DEPENDENCIES USED IN THIS PROJECT</br>
-
+```
  dependencies:</br>
   flutter:</br>
     sdk: flutter</br>
@@ -18,3 +18,4 @@ A Simple Flutter App to store pin location with photographs of your favourite tr
   location: ^2.3.5</br>
   google_maps_flutter: ^0.5.17</br>
   http: ^0.12.0+2</br>
+  ```
