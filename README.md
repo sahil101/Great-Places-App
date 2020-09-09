@@ -2,10 +2,10 @@
 A Simple Flutter App to store pin location with photographs of your favourite travel Places.
 
 
-# TO CREATE NEW FLUTTER PROJECT</br>
+## TO CREATE NEW FLUTTER PROJECT</br>
 -FLUTTER CREATE PROJECT_NAME</br>
 
-# DEPENDENCIES USED IN THIS PROJECT</br>
+### DEPENDENCIES USED IN THIS PROJECT</br>
 
  dependencies:</br>
   flutter:</br>
