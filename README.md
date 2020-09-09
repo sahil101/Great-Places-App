@@ -1,16 +1,20 @@
-# utilities_app
+# Great-Places-App
+A Simple Flutter App to store pin location with photographs of your favourite travel Places.
 
-A new Flutter project.
 
-## Getting Started
+#TO CREATE NEW FLUTTER PROJECT
+-FLUTTER CREATE PROJECT_NAME
 
-This project is a starting point for a Flutter application.
+DEPENDENCIES USED IN THIS PROJECT
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^3.0.0+1
+  image_picker: ^0.6.0+9
+  path_provider: ^1.1.0
+  path: ^1.6.2
+  sqflite: ^1.3.1+1
+  location: ^2.3.5
+  google_maps_flutter: ^0.5.17
+  http: ^0.12.0+2
